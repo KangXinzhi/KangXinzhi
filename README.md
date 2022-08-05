@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KangXinzhi
 - 👀 I’m interested in react
-- 🌱 I work in beijing
+- 🌱 I work in BeiJing
 
 <!---
 KangXinzhi/KangXinzhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
