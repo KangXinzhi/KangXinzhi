@@ -14,7 +14,3 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=KangXinzhi&show_icons=true&theme=nord_bright&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangXinzhi&layout=compact&theme=nord_bright&hide_border=true" alt="" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<h2>👨‍💻 Activity graph:</h2>
-
-![](https://activity-graph.herokuapp.com/graph?username=KangXinzhi&theme=minimal)
